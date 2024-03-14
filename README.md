@@ -2,7 +2,6 @@
 ### Olá, eu sou Gilberto Neto 🫡
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilbertodev29@gmail.com)
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GilzinCode)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-neto-383676239/)
 
 ## Tecnologias que eu tenho conhecimento
